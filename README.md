@@ -1,9 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Sakuni Kodithuwakku</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka.</h3>
-<img aligh="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c0a6115979104c508d92d89e32124bc5acd8035f0e4f5e510298c8d80137dacf/68747470733a2f2f632e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966">
+<img aligh="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/c0a6115979104c508d92d89e32124bc5acd8035f0e4f5e510298c8d80137dacf/68747470733a2f2f632e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakunink&label=Profile%20views&color=0e75b6&style=flat" alt="sakunink" /> </p>
 
